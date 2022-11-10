@@ -1,6 +1,6 @@
-# App-Orçamento-Pessoal - Em processo de melhorias. 
+ App-Orçamento-Pessoal  
 
 
 
 
-# Aplicativo de cadastro de despesas, com intuito ser possível cadastrar, editar, filtrar e excluir gastos. 
+ Aplicativo de cadastro de despesas, com intuito ser possível cadastrar, editar, filtrar e excluir gastos. 
